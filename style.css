@@ -12,3 +12,22 @@
 .flw{
     font-size: small;
 }
+.flwaa{
+  font-size: x-small; 
+  margin-left: 20px;
+}
+.white{
+    background-color: white;
+}
+
+ @media only screen and (max-width: 600px) {
+.aside{display: none;}
+
+.imgpro{
+    height:300px;
+    width: 250px;
+}
+.nav {
+    max-width: 375px;
+}
+  } 
